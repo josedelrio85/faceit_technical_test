@@ -1,0 +1,7 @@
+DB_DATABASE=faceit_cc
+DB_HOST=mysql_faceit
+DB_PASSWORD=mysqlpw
+DB_PORT=3306
+DB_USERNAME=mysqluser
+KAFKA_BROKER=broker
+KAFKA_BROKER_PORT=29092
