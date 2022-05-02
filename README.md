@@ -34,6 +34,7 @@ docker-compose -f server/docker-compose.yml down -v
 ## How to run the tests?
 
 ```sh
+cd server
 go test ./...
 ```
 
