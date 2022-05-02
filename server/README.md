@@ -1,4 +1,4 @@
-# FaceIT Go coding Challenge v1
+# FaceIT Go coding Challenge
 
 Resolution of the proposed technical test.
 
